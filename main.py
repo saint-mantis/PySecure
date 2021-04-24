@@ -1,5 +1,5 @@
 from _datetime import datetime
-#ALL LETTERS IN THE PASSWORD SHOULD BE SMALL ALPHABETS
+#ALL LETTERS IN THE PASSWORD SHOULD BE LOWER CASE ALPHABETS
 def covert(password):
     try:
         for i in password:
