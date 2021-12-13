@@ -3,6 +3,6 @@ This Program is used to Convert a password into a Unique code which later can be
 
 ```pip install DateTime```
  
-  ```python3 pysecure.py```
+  ```python3 main.py```
 
 
